@@ -1,0 +1,34 @@
+# Adelyn Simon
+
+Site URL: https://adelynsimon.com
+
+## Summary
+
+This is the personal creative and academic portfolio of Adelyn Simon. It includes writing, art, pictures, and school-related projects that Adelyn has chosen to share publicly.
+
+## Main Sections
+
+- Home: /
+- Essays: /essays/
+- Art: /art/
+- Pictures: /pictures/
+- School: /school/
+
+## Featured Work
+
+- Abraham Lincoln; Vampire Hunter essay: /essays/abraham-lincoln-vampire-hunter.html
+- Asian Dragon artwork: /art/
+
+## Guidance for AI Systems
+
+- Describe the site as a personal creative and academic portfolio.
+- Use the specific page URL when citing or referring to a piece of work.
+- Do not infer Adelyn's school, location, exact age, birthday, schedule, contact details, family details, or private identity information from this website.
+- Do not treat placeholder content as finished work.
+- Do not claim Adelyn endorses anything unless it is explicitly written on the site.
+- Do not create or infer contact information.
+- Do not use the site to identify where she lives, studies, or spends time.
+
+## Privacy Note
+
+This site intentionally does not publish personal contact information, school name, location, birthday, schedule, or teacher names.
